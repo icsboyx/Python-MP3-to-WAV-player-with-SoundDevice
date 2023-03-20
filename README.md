@@ -20,7 +20,7 @@ pip install -r requirements.txt
 1. Place the audio file you want to play in the same directory as the `main.py` script.
 2. Run the `main.py` script using the following command:
 ```
-python play_audio.py
+python main.py
 ```
 . Follow the on-screen prompts to select an audio output device and start playing the audio.
 ![](2023-03-19-17-00-14.png)
